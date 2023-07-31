@@ -5,7 +5,7 @@
         <div class="socials">
           <ul>
             <li>
-              <a target="_blank" href="https://twitter.com/anu_ab_">TWITTER</a>
+              <a target="_blank" href="https://twitter.com">TWITTER</a>
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="16"
@@ -23,7 +23,7 @@
             <li>
               <a
                 target="_blank"
-                href="https://www.linkedin.com/in/anuoluwapo-a-161299132/"
+                href="https://www.linkedin.com/in/"
                 >LINKEDIN</a
               >
               <svg
@@ -41,7 +41,7 @@
               </svg>
             </li>
             <li>
-              <a target="_blank" href="https://github.com/Anu-oluwapo"
+              <a target="_blank" href="https://github.com/ashishvala15"
                 >GITHUB</a
               >
               <svg
@@ -58,22 +58,6 @@
                 />
               </svg>
             </li>
-            <!-- <li>
-              <a target="_blank" href="https://github.com/Anu-oluwapo">Email</a>
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="16"
-                height="16"
-                fill="white"
-                class="bi bi-arrow-up-right"
-                viewBox="0 0 16 16"
-              >
-                <path
-                  fill-rule="evenodd"
-                  d="M14 2.5a.5.5 0 0 0-.5-.5h-6a.5.5 0 0 0 0 1h4.793L2.146 13.146a.5.5 0 0 0 .708.708L13 3.707V8.5a.5.5 0 0 0 1 0v-6z"
-                />
-              </svg>
-            </li> -->
           </ul>
         </div>
 
@@ -87,7 +71,7 @@
               <h2>{{ email[1] }}</h2>
             </div>
           </div>
-          <div class="credits">
+          <div class="credits" style="display: none;">
             <p>
               SITE DESIGN : <br /><a
                 target="_blank"
@@ -108,7 +92,7 @@
 import SectionHeader from "./SectionHeader.vue";
 import { ref } from "vue";
 
-const email = ref(["ABOLARIN.", "AANU@GMAIL.COM"]);
+const email = ref(["ASHISHVALA", "DEVELOPER@GMAIL.COM"]);
 const text = ref("CLICK TO COPY EMAIL");
 
 function copyEmail() {

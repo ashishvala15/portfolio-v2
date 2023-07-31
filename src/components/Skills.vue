@@ -4,32 +4,32 @@
     <div class="skills">
       <div class="skillset--1">
         <h2>
-          <span>Javascript</span> . <span>ReactJS</span> .
-          <span>Typescript</span> . <span>VueJS</span> .
-          <span>Javascript</span> . <span>ReactJS</span> .
-          <span>Typescript</span> . <span>VueJS</span>
+          <span>ANGULAR</span> . <span>REACTJS</span> .
+          <span>NODEJS</span> . <span>ANGULAR</span> .
+          <span>JAVASCRIPT</span> . <span>REACTJS</span> .
+          <span>TYPESCRIPT</span> . <span>NODEJS</span>
         </h2>
       </div>
       <div class="skillset--2">
         <h2>
-          <span>NuxtJS</span> . <span>VueX</span> . <span>Pinia</span> .
-          <span>Git</span> . <span>NuxtJS</span> . <span>VueX</span> .
-          <span>Pinia</span> . <span>Git</span> . <span>NuxtJS</span> .
-          <span>VueX</span> . <span>Pinia</span> . <span>Git</span>
+          <span>NET</span> . <span>MVC</span> . <span>gRPC</span> .
+          <span>AWS</span> . <span>NET</span> . <span>C#</span> .
+          <span>AWS</span> . <span>GIT</span> . <span>NET</span> .
+          <span>C#</span> . <span>AWS</span> . <span>GIT</span>
         </h2>
       </div>
       <div class="skillset--1">
         <h2>
-          <span>HTML</span> . <span>CSS</span> . <span>SCSS</span> .
-          <span>Bootstrap</span> . <span>HTML</span> . <span>CSS</span> .
-          <span>SCSS</span> . <span>Bootstrap</span>
+          <span>MSSQL</span> . <span>POSTGRESQL</span> . <span>MYSQL</span> . <span>AZURE</span> .
+          <span>AZURE</span> . <span>POSTGRESQL</span> . <span>MYSQL</span> . <span>MONGODB</span> .
+          <span>MSSQL</span> . <span>MONGODB</span> . <span>AZURE</span> . <span>POSTGRESQL</span>
         </h2>
       </div>
       <div class="skillset--2">
         <h2>
-          <span>AdobeXD</span> . <span>Figma</span> . <span>Wordpress</span> .
-          <span>AdobeXD</span> . <span>Figma</span> . <span>Wordpress</span> .
-          <span>AdobeXD</span> . <span>Figma</span> . <span>Wordpress</span> .
+          <span>HTML</span> . <span>CSS</span> . <span>SCSS</span> .
+          <span>Bootstrap</span> . <span>HTML</span> . <span>CSS</span> .
+          <span>SCSS</span> . <span>Bootstrap</span>
         </h2>
       </div>
     </div>

@@ -53,7 +53,7 @@
           </div>
         </div>
 
-        <div @click="openTab('https://anuoluwapo.xyz')" class="project">
+        <div @click="openTab('https://ashishvala.in')" class="project">
           <div class="container">
             <div class="dot"></div>
             <h3>Portfolio ('23)</h3>
@@ -71,7 +71,7 @@
             <a
               name="project-portfolio"
               target="_blank"
-              href="https://anuoluwapo.xyz"
+              href="https://ashishvala.in"
               ><img alt="Project Portfolio" src="/images/portfolio.png"
             /></a>
           </div>

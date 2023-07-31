@@ -3,10 +3,6 @@
     <SectionHeader :text="'ABOUT'" />
     <div class="container">
       <div class="image">
-        <p class="disclaimer">
-          **A COOL UNSPLASH <br />
-          PHOTOGRAPH NOT ME LOL
-        </p>
         <div class="image-border"></div>
         <img class="light" alt="Man Looking Up" src="/images/person3.png" />
         <img class="dark" alt="Man Looking Up" src="/images/person.png" />
@@ -14,25 +10,16 @@
 
       <div class="text">
         <p>
-          Hi there! I am Anuoluwapo, a passionate and detail-oriented
-          <b>Frontend Engineer</b>, dedicated to crafting seamless and engaging
-          websites / web applications using the latest technologies. With a keen
-          eye for design and user experience, I love creating digital
-          experiences that are both aesthetically pleasing and highly
-          functional. When I'm not coding, you can usually find me playing
-          games, hitting the gym for a workout, shooting hoops on the basketball
-          court, or kicking back and enjoying a good movie. I am constantly
-          seeking new challenges and opportunities to learn and grow as a
-          developer, and am excited to be a part of the dynamic and
-          ever-evolving tech industry. Thanks for stopping by, and I look
-          forward to connecting with you soon!
+          <b>Software Engineer</b> with 6+ years of experience in web-based applications, utilizing front-end technologies
+          and Microsoft .NET frameworks. Proficient in ASP.NET, MVC, Angular, Node.js, React.js, JavaScript, TypeScript,
+          C#, HTML, CSS, .NET, jQuery, MS SQL Server, and PostgreSQL. Strong understanding of technology with a focus on
+          delivering business solutions through all phases of the Software Development Life Cycle. Excellent analytical,
+          communication, and problem-solving skills, with a proven ability to provide quick fixes and innovative solutions
+          to critical problems. Experienced in client interaction and query resolution. A team player with a positive
+          attitude, strong communication skills, and the ability to adapt to new technologies and mentor team members.
         </p>
 
-        <button
-          @click.prevent="lenis.scrollTo('#contact')"
-          type="button"
-          class="btn btn_about"
-        >
+        <button @click.prevent="lenis.scrollTo('#contact')" type="button" class="btn btn_about">
           <span>GET IN TOUCH</span>
         </button>
       </div>

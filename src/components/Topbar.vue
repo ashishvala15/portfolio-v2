@@ -2,7 +2,7 @@
   <header>
     <div class="header container">
       <div class="logo">
-        <p>ANUOLUWAPO.</p>
+        <p>Ashish Vala</p>
       </div>
 
       <div class="controls">

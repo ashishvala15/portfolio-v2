@@ -5,7 +5,7 @@
     <div class="container">
       <div class="loader-container">
         <div class="text">
-          <p>Cooking...</p>
+          <p>Coding...</p>
         </div>
         <div class="loader">
           <div id="loading-bar"></div>
